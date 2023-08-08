@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tigorrr4&show_icons=true&locale=en" alt="tigorrr4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tigorrr4&" alt="tigorrr4" /></p>
+</p>
+<picture><img src="https://github.com/alansmathew/alansmathew/blob/master/projects.gif"></picture>
