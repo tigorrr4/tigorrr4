@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tigorrr4&label=Profile%20views&color=0e75b6&style=flat" alt="tigorrr4" /> </p>
 
-- 🌱 I’m currently learning **API Automation Testing With Serenity BDD and Rest Assured**
+
 
 - 📫 How to reach me **rolandotigor52@gmail.com**
 
