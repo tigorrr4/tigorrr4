@@ -30,11 +30,10 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![JMeter](https://img.shields.io/badge/-jmeter-000000?style=for-the-badge&logo=jmeter)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tigorrr4&show_icons=true&locale=en&layout=compact" alt="tigorrr4" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tigorrr4&show_icons=true&locale=en" alt="tigorrr4" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tigorrr4&" alt="tigorrr4" /></p>
-</p>
-<picture><img src="https://github.com/alansmathew/alansmathew/blob/master/projects.gif"></picture>
+<br/>
+<div align="center">
+<a href="https://github.com/tigorrr4">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tigorrr4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tigorrr4&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</div> 
