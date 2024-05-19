@@ -10,9 +10,7 @@
 
 
 
-- 📫 How to reach me **rolandotigor52@gmail.com**
 
-- ⚡ Fun fact **Love about gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +18,10 @@
 <a href="https://instagram.com/@rolandotigorrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rolandotigorrr" height="30" width="40" /></a>
 <a href="https://discord.gg/rolandotigor #1428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rolandotigor #1428" height="30" width="40" /></a>
 </p>
+
+- 📫 How to reach me **rolandotigor52@gmail.com**
+
+- ⚡ Fun fact **Love about gaming**
 
 ## 🔨Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
