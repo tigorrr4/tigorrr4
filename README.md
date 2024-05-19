@@ -26,6 +26,7 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![JMeter](https://img.shields.io/badge/-jmeter-000000?style=for-the-badge&logo=jmeter)
+![Appium Badge](https://img.shields.io/badge/Appium-EE376D?logo=appium&logoColor=fff&style=for-the-badge)
 
 <br/>
 <div align="center">
