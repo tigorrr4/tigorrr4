@@ -8,7 +8,11 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 
 
+<h1></h1>
 
+- 🔭 I’m currently working for [Cashlez((https://www.cashlez.com/)) as Jr. Quality Assurance
+- 🌱 I’m currently learning all about testing
+- 📫 You can reach me on email at rolandotigor52@gmail.com
 
 
 
