@@ -10,7 +10,7 @@
 
 <div align="left" width="50">
 
-- 🔭 I’m currently working for [Cashlez](https://www.cashlez.com/) as Jr. Quality Assurance
+- 🔭 I’m currently working for [Pegadaian](https://www.pegadaian.co.id/) as QA Automation
 - 🌱 I’m currently learning all about testing
 - 📫 You can reach me on email at rolandotigor52@gmail.com
 
